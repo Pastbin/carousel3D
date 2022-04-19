@@ -5,7 +5,7 @@
   background: black;
 }
 #carousel .wrap {
-  width: 100vw;
+  width: 0;
   height: 700px;
   margin: 0 auto;
   justify-content: center;
